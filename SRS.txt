@@ -1,4 +1,5 @@
 JOBSPHERE-Your Future Starts Here
+Journey begins now
 Jobsphere is a dynamic web application designed to revolutionize the job search experience. With a user-centric approach, it provides a seamless platform for both job seekers and employers. Job seekers can explore a vast array of opportunities through an intuitive interface, utilizing advanced filters to pinpoint relevant positions. The application goes beyond basic job listings, offering features such as resume creation, personalized profiles, and application tracking.
 It should have feature for authentication. User should be able to message jobprovider.
 Employers benefit from an efficient recruitment process, leveraging Jobsphere's tools to connect with qualified candidates. The platform facilitates seamless communication between employers and applicants, fostering a more transparent and engaging hiring process. With its robust search algorithms and tailored features, Jobsphere aims to empower users in their quest for the perfect job match, making the job search journey both effective and enjoyable.
